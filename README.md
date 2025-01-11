@@ -17,8 +17,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- [Solution](https://www.frontendmentor.io/solutions/recipe-page-NSOW5LDySH)
-- [Live Site](https://mschichuang.github.io/Recipe-page/)
+- [Solution](https://www.frontendmentor.io/solutions/social-links-profile-UzbhIs2xiA)
+- [Live Site](https://mschichuang.github.io/Social-links-profile/)
 
 ## Author
 
