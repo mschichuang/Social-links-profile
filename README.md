@@ -10,5 +10,5 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-mk1OOUjGGt](https://www.frontendmentor.io/solutions/social-links-profile-mk1OOUjGGt)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-17CGT3V3uY](https://www.frontendmentor.io/solutions/social-links-profile-17CGT3V3uY)
 - Live Site URL: [https://mschichuang.github.io/Social-links-profile/](https://mschichuang.github.io/Social-links-profile/)
