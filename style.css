@@ -55,26 +55,28 @@ h1 {
   margin-bottom: 26px;
 }
 
-div {
+ul {
+  list-style: none;
   display: flex;
   flex-direction: column;
   gap: 16px;
   width: 100%;
 }
 
-button {
+a {
+  display: block;
   background-color: hsl(0, 0%, 20%);
   color: white;
-  border: none;
-  border-radius: 8px;
+  text-decoration: none;
+  text-align: center;
   padding: 14px;
-  font-family: inherit;
+  border-radius: 8px;
   font-size: 0.88rem;
   font-weight: 600;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-button:hover {
+a:hover {
   background-color: hsl(75, 94%, 57%);
   color: black;
   cursor: pointer;
